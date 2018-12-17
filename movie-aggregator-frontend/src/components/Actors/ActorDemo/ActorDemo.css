@@ -1,0 +1,13 @@
+.actor-demo-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.actor-demo-label {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.actor-demo-container img {
+    height: 100px;
+}

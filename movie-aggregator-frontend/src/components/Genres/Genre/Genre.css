@@ -1,0 +1,38 @@
+.genre-main {
+    width: 80%;
+    margin: auto;
+}
+.genre-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.genre-title {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.genre-image {
+    max-width: 70%;
+    margin: auto;
+}
+.genre-image img {
+    width: 100%;
+}
+.genre-description {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+.genre-main .nav-tabs {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.genre-nav-content {
+    width: 80%;
+    margin: auto;
+}

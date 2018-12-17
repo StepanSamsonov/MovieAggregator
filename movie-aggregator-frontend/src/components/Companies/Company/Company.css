@@ -1,0 +1,31 @@
+.company-main {
+    width: 80%;
+    margin: auto;
+}
+.company-top {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.company-date {
+    display: flex;
+    flex-direction: row;
+}
+.company-date label {
+    margin-right: 10px;
+}
+.company-main .nav-tabs {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.company-nav-content {
+    width: 80%;
+    margin: auto;
+}

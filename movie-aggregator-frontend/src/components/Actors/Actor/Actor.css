@@ -1,0 +1,25 @@
+.actor-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+.actor-title {
+    margin: 10px;
+}
+.actor-name {
+    display: flex;
+    justify-content: center;
+}
+.actor-image img {
+    width: 100%;
+}
+.actor-middle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.actor-nav-content {
+    margin-top: 10px;
+}

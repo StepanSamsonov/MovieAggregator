@@ -1,0 +1,10 @@
+.company-demo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.company-demo div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

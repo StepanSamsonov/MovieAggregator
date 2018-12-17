@@ -1,0 +1,13 @@
+.film-demo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.film-demo div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.film-demo img {
+    height: 100px;
+}

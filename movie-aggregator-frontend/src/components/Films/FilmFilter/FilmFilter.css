@@ -1,0 +1,79 @@
+.films-filter {
+    position: sticky;
+    top: 20px;
+    max-height: 85vh;
+    overflow-y: auto;
+}
+.films-filter label {
+    white-space: nowrap;
+}
+.films-filter-element {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.films-filter-budget .films-filter-element {
+    margin-bottom: 5px;
+}
+.films-filter-search {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.films-filter-languages {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.films-filter-languages-element {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 40px;
+}
+.films-filter-languages-element input {
+    margin-top: 7px;
+}
+.films-filter-countries {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.films-filter-countries-element {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100px;
+}
+.films-filter-countries-element label {
+    width: 80px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.films-filter-countries-element input {
+    margin-top: 7px;
+}
+.films-filter-genres {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.films-filter-genres-element {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100px;
+}
+.films-filter-genres-element label {
+    width: 80px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.films-filter-genres-element input {
+    margin-top: 7px;
+}

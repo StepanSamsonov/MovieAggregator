@@ -1,0 +1,18 @@
+.actors-main {
+    width: 70%;
+    margin: auto;
+}
+.actors-title {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.actors-nothing {
+    display: flex;
+    justify-content: center;
+}
+.actors-middle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

@@ -1,0 +1,13 @@
+.genre-demo-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.genre-demo-container div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.genre-demo-container img {
+    height: 100px;
+}
