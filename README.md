@@ -20,6 +20,7 @@ cd movie-aggregator-backend
 python manage.py runserver
 
 Frontend:
+
 cd movie-aggregator-frontend
 
 npm install
